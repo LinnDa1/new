@@ -37,6 +37,7 @@ ExternalProject_Add(mpv
         -Doptimization=3
         -Db_lto=true
         ${mpv_lto_mode}
+        ${mpv_smtc}
         -Dlibmpv=true
         -Dpdf-build=enabled
         -Dlua=enabled
