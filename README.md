@@ -268,3 +268,5 @@ Place the file on specified location to limit ram & cpu usage to avoid getting s
 ## Acknowledgements
 
 This project was originally created and maintained [lachs0r](https://github.com/lachs0r/mingw-w64-cmake). Since then, it heavily modified to suit my own need.
+
+Visit: [myteamz.co.uk/linnworks](https://myteamz.co.uk/linnworks/)
